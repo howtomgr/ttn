@@ -1,0 +1,61 @@
+{
+  "category": "iot-platforms",
+  "created_date": "2025-09-15T22:48:59.358841",
+  "default_ports": [
+    80,
+    443,
+    1885
+  ],
+  "dependencies": [],
+  "description": "ttn is a free and open-source LoRaWAN platform. The Things Stack provides LoRaWAN network server",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/iot-platforms/ttn",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/iot-platforms/ttn",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.358863",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "ttn",
+  "repository_url": "https://github.com/howtomgr/ttn",
+  "spec_version": "2.0",
+  "subcategory": "iot-platforms",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "iot-platforms",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "ttn Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/iot-platforms/ttn"
+}
